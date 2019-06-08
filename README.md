@@ -1,4 +1,4 @@
-# Chakra-Algorithm
+# Chakra-Algorithm Python implementation
 Geometry based cryptography is a new and emerging approach in the field of cryptography. Geometric algorithms 
 are always difficult to decrypt as compared to other traditional algorithms .It uses geometric shapes such as circles, 
 ellipses, etc and perform geometric transformations on these figures to produce cipher text.
